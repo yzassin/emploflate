@@ -17,11 +17,11 @@ st.markdown("""
 
 st.subheader('The team')
 st.code("""
-        - Vinod as Leader
-        - Nissa as Secretary
-        - Shakirah as Detective
-        - Hovinya as Oracle
-        - Atiqah as Maker 
+- Vinod as Leader
+- Nissa as Secretary
+- Shakirah as Detective
+- Hovinya as Oracle
+- Atiqah as Maker 
 """)
 
 
