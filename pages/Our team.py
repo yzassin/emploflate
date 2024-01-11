@@ -3,7 +3,7 @@ import streamlit as st
 
 st.header('EMPLOFLATE')
 st.markdown("""
-- A web app provides a centralized platform for a comprehensive view of both unemployment and inflation rates, enabling stakeholders to understand the overall economic health in one glance.
+- A centralized platform for a comprehensive view of both unemployment and inflation rates, enabling stakeholders to understand the overall economic health in one glance.
 - Benficiary : Decision-makers, policymakers, and business leaders 
 - Domain : Economy and Government
 """)
