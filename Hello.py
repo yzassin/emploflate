@@ -12,7 +12,7 @@ def run():
 
     st.write("# Welcome to Emploflate")
     st.image('img.png', use_column_width=True)
-    st.sidebar.success("Select a option above.")
+    st.sidebar.success("Select one option above.")
 
     st.markdown(
         """
