@@ -19,9 +19,8 @@ def run():
         "*Exploring Malaysia's economic trends:* A detailed analysis of inflation and unemployment rates,
         shedding light on crucial factors shaping the nation's economic stability and workforce dynamics"
 
-        ### Links 
-        - Explore our [Jupiter Notebook](https://github.com/streamlit/demo-self-driving)
-        - Explore our [unemployment & inflation rate in Malaysia](https://github.com/streamlit/demo-uber-nyc-pickups)
+        ### Link 
+        - Explore our [Github here](https://github.com/GROUP12PDS/GROUP12.git)
     """
     )
 
